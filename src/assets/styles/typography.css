@@ -1,0 +1,45 @@
+/* ===== Display ===== */
+.text-display-xl {
+    font-size: var(--fs-display-xl);   /* 52px */
+    line-height: var(--lh-display-xl);
+    font-weight: var(--fw-semibold);
+}
+
+/* ===== Headings ===== */
+.text-heading-xl {
+    font-size: var(--fs-heading-xl);   /* 36px */
+    line-height: var(--lh-heading-xl);
+    font-weight: var(--fw-semibold);
+}
+
+.text-heading-lg {
+    font-size: var(--fs-heading-lg);   /* 28px */
+    line-height: var(--lh-heading-lg);
+    font-weight: var(--fw-medium);
+}
+
+/* ===== Body ===== */
+.text-body-lg {
+    font-size: var(--fs-body-lg);      /* 20px*/
+    line-height: var(--lh-body-lg);
+    font-weight: var(--fw-semibold);
+}
+
+.text-body-md {
+    font-size: var(--fs-body-md);      /* 18px */
+    line-height: var(--lh-body-md);
+    font-weight: var(--fw-regular);
+}
+
+.text-body-sm {
+    font-size: var(--fs-body-sm);      /* 16px*/
+    line-height: var(--lh-body-sm);
+    font-weight: var(--fw-medium);
+}
+
+/* ===== Meta ===== */
+.text-caption {
+    font-size: var(--fs-caption);      /* 14px */
+    line-height: var(--lh-caption);
+    font-weight: var(--fw-regular);
+}

@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Russo+One&display=swap');
+
+:root {
+    --white-bg-rgb: 242, 248, 252;
+    --white-base-rgb: 248, 250, 252;
+    --blue-100-rgb: 158, 179, 194;
+    --blue-200-rgb: 6, 90, 130;
+    --blue-300-rgb: 27, 59, 111;
+    --blue-400-rgb: 33, 41, 92;
+
+    --ff-inter: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+
+    /* ===== Font Weights ===== */
+    --fw-regular: 400;
+    --fw-medium: 500;
+    --fw-semibold: 600;
+
+    /* ===== Display ===== */
+    --fs-display-xl: 44px;
+    --lh-display-xl: 56px;
+
+    /* ===== Headings ===== */
+    --fs-heading-xl: 30px;
+    --lh-heading-xl: 40px;
+
+    --fs-heading-lg: 24px;
+    --lh-heading-lg: 32px;
+
+    /* ===== Body ===== */
+    --fs-body-lg: 18px;
+    --lh-body-lg: 26px;
+
+    --fs-body-md: 16px;
+    --lh-body-md: 22px;
+
+    --fs-body-sm: 16px;
+    --lh-body-sm: 20px;
+
+    /* ===== Meta ===== */
+    --fs-caption: 14px;
+    --lh-caption: 20px;
+}
